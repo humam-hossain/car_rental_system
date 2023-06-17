@@ -1,0 +1,3 @@
+32715,humam,hello
+296,sunan,hello
+2193,sunan mia,mello
